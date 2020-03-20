@@ -1,0 +1,54 @@
+:root {
+  font-size: 18px;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  line-height: 1.3em;
+  max-width: 75ch;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Markazi Text", serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+li {
+  line-height: 1.7rem;
+}
+
+a:link {
+  color: darkgrey;
+  font-weight: 800;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: hotpink;
+  font-style: italic;
+}
+
+a:active {
+  color: rgba(105, 255, 130, 8);
+}
