@@ -17,6 +17,7 @@ h4,
 h5,
 h6 {
   font-family: "Markazi Text", serif;
+  color: rgb(77, 20, 200);
 }
 
 h1 {
@@ -35,6 +36,9 @@ li {
   line-height: 1.7rem;
 }
 
+i.green {
+  color: green;
+}
 a:link {
   color: darkgrey;
   font-weight: 800;
